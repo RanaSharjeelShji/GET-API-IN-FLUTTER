@@ -1,6 +1,7 @@
 # episode_api
 
-A new Flutter project.
+watch explained tutorial on youtube.
+https://youtu.be/fIecru0LVZc
 
 ## Getting Started
 
